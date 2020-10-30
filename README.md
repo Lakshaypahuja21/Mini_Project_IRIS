@@ -1,1 +1,1 @@
-# Miny_Project-IRIS_dataset
+# Miny_Projects
