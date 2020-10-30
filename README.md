@@ -1,1 +1,1 @@
-# Miny_Projects
+# Mini_Projects
